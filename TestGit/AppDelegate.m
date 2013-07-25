@@ -13,7 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // asdadafasf
-    NSLog(@"Hi There ");
+    NSLog(@"Hi There dasd");
     // Override point for customization after application launch.
     return YES;
 }
